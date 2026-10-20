@@ -662,10 +662,9 @@ write memory
 ## 👤 Author & Academic Metadata
 
 * **Project Title:** Hierarchical Enterprise University Campus Network Design
-* **Network Engineer / Student:** `[Your Name Here]`
-* **Roll Number / Student ID:** `[Your Student ID Here]`
-* **Department:** Department of Computer Science & Engineering / Information Technology
-* **Institution:** `[Your University / College Name Here]`
+* **Network Engineer / Student:** `[Raman Kashyap]`
+* **Department:** Department of Computer Science & Engineering / Internet of Things
+* **Institution:** `[Noida Institute of Engineering , Greaater Noida]`
 * **Course:** Advanced Computer Networks & Infrastructure Engineering
 * **Date:** October 2026
 * **Status:** 100% Production Verified ✅
